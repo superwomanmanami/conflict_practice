@@ -1,3 +1,3 @@
 # favorite food
 
-apple
+pgit add .ineapple
